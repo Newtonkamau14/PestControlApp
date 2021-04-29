@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PestControlApp</string>
+    <string name="occupant_name">Occupant Name</string>
+    <string name="service_description"> Pest Control Services for both commercial and residential structures take care of a broad range of pests like cockroaches, fleas, flies, ticks, bedbugs, termites, ants, and other pests. It is important that the premises to be treated several times in a year to protect your home or business from these pests.</string>
+</resources>
