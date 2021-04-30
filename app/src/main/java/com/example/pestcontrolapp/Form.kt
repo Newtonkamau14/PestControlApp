@@ -22,6 +22,8 @@ class Form : AppCompatActivity() {
                 startActivity(it)
             }
         }
-
+        btnBack.setOnClickListener {
+            finish()
+        }
     }
 }
